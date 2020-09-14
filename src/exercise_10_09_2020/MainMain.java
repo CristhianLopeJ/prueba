@@ -6,17 +6,9 @@
 package exercise_10_09_2020;
 
 public class MainMain {
-    public static void main(String[] args){
-        
-  
-        
-        System.out.println(countWords("hola como estan"));
-        
 
-    }
-    public static int countWords(String s) {
-	int numberWords = Integer.;
-        return numberWords;
-	}
-    
+//    public static void main(String[] args) {
+//        CountWordsAll countWordsAll = new CountWordsAll();
+//        System.out.println(countWordsAll.countWords("hola haremos la tarea"));
+//    }
 }
